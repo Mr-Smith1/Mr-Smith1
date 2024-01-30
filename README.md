@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://komarev.com/ghpvc/?username=Mr-Smith1&style=flat-square&color=blue" alt=""/>
 - 🔭 I’m currently working on coding for FRC 2035
 - 🌱 I’m currently learning how not to despise java    
 - 💬 Ask me about CAD
