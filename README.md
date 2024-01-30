@@ -1,5 +1,4 @@
 ### Hi there 👋
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 - 🔭 I’m currently working on coding for FRC 2035
 - 🌱 I’m currently learning how not to despise java    
 - 💬 Ask me about CAD
