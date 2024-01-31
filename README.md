@@ -51,7 +51,7 @@
 <a href="https://github.com/Mr-Smith1">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mr-Smith1&theme=github_dark" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mr-Smith1&theme=github_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mr-Smith1&theme=github_dark" height="180em" />
+
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mr-Smith1&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mr-Smith1&theme=github_dark" height="180em" />
 </div>
